@@ -1,5 +1,12 @@
 # AI Ethics Scenarios
 
+Consider the following questions about each of the given scenarios:
+
+1. What do you consider to be the potential benefits of the artificial intelligence program described in the scenario?
+2. What do you consider to be the potential drawbacks of the artificial intelligence program described in the scenario?
+3. If you were in a position where you could decide if the organization would use the program or not, then what would you decide to do? Why?
+
+
 ## Scenario #1: Hiring Practices
 
 A company is overwhelmed by the number of applicants that it is receiving for the engineering roles that it has posted.
